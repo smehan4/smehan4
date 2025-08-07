@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sakshi, and I'm a BCIT Business Analytics Grad and interested in SQL, Power BI & Python and Data Engineering!
+My name is Sakshi, and I'm a BCIT Business Analytics Grad and interested in SQL, Power BI, Python and Data Engineering!
 
 ---
 
