@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hi,I'm Sakshi Mehan 👋
 
-My name is Sakshi, and I'm a BCIT Business Analytics Grad and interested in SQL, Power BI, Python and Data Engineering!
+Business & Data Analyst | Turning Business Problems into Data-Driven Solutions
+
+📍 Vancouver, BC | 💼 4.5 Years Experience
 
 ---
 
