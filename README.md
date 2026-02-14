@@ -12,15 +12,17 @@ My name is Sakshi, and I'm a BCIT Business Analytics Grad and interested in SQL,
 
 ## 🚀 About Me
 
-I'm passionate about transforming data into actionable insights and ensuring robust database performance. With hands-on experience in SQL, Python, Power BI, and Excel, I enjoy solving complex analytical problems and enabling data-driven decision making.
+I solve business problems through systematic data analysis and automation.
+
+With 4.5 years of experience across retail and insurance sectors, I specialize in translating stakeholder requirements into actionable insights through SQL, Python, and Power BI. My approach: understand the business question → analyze the data → deliver measurable impact.
+
 
 ## 📊 What I Do
 
-- Analyze business data to uncover trends and opportunities
-- Maintain databases for optimal performance
-- Build interactive dashboards and reports
-- Automate data processing workflows
-
+- Gather requirements from stakeholders and translate them into technical solutions
+- Build automated reporting and BI dashboards that drive decisions
+- Identify process improvements through data analysis
+- Measure business impact with quantified metrics
 ## 📫 Get in Touch
 
 Feel free to reach out for collaboration, consulting, or just to chat about books and data!
