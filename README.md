@@ -48,7 +48,7 @@ With 4.5 years of experience across retail and insurance sectors, I specialize i
 - SSMS, SSIS, Oracle database, Jupyter Notebook
 - Data Quality Management & Validation
 
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to reach out for collaboration, consulting, or just to chat about books and data!
 
