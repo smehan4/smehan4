@@ -28,21 +28,21 @@ With 4.5 years of experience across retail and insurance sectors, I specialize i
 
 
 ## Technical Skills
-# Data Analysis & BI
+### Data Analysis & BI
 
 - SQL (Advanced Queries, Joins, CTEs, Window Functions)
 - Python (Pandas, NumPy, Data Cleaning, Automation)
 - Power BI (DAX, Power Query, Data Modeling, Dashboard Design)
 - Tableau, Advanced Excel (Pivot Tables, Power Query, VLOOKUP)
 
-# Business Analysis
+### Business Analysis
 
 - Requirements Gathering & Documentation
 - Stakeholder Management & Communication
 - Process Mapping & Optimization (MS Visio, Lucidchart, Miro)
 - KPI Development & Business Metrics
 
-# Tools & Platforms
+### Tools & Platforms
 
 - JIRA, ServiceNow(ITSM), Git/GitHub
 - SSMS, SSIS, Oracle database, Jupyter Notebook
