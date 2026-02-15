@@ -25,6 +25,29 @@ With 4.5 years of experience across retail and insurance sectors, I specialize i
 - Build automated reporting and BI dashboards that drive decisions
 - Identify process improvements through data analysis
 - Measure business impact with quantified metrics
+
+
+## Technical Skills
+# Data Analysis & BI
+
+SQL (Advanced Queries, Joins, CTEs, Window Functions)
+Python (Pandas, NumPy, Data Cleaning, Automation)
+Power BI (DAX, Power Query, Data Modeling, Dashboard Design)
+Tableau, Advanced Excel (Pivot Tables, Power Query, VLOOKUP)
+
+# Business Analysis
+
+Requirements Gathering & Documentation
+Stakeholder Management & Communication
+Process Mapping & Optimization (MS Visio, Lucidchart, Miro)
+KPI Development & Business Metrics
+
+# Tools & Platforms
+
+JIRA, Confluence, Git/GitHub
+SSMS, SSIS, Jupyter Notebook
+Data Quality Management & Validation
+
 ## 📫 Get in Touch
 
 Feel free to reach out for collaboration, consulting, or just to chat about books and data!
