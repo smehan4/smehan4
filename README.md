@@ -2,7 +2,7 @@
 
 Business & Data Analyst | Turning Business Problems into Data-Driven Solutions
 
-📍 Vancouver, BC | 💼 4.5 Years Experience
+📍 Vancouver, BC | 💼 5 Years Experience
 
 ---
 
