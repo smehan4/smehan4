@@ -53,5 +53,3 @@ With 4.5 years of experience across retail and insurance sectors, I specialize i
 Feel free to reach out for collaboration, consulting, or just to chat about books and data!
 
 ---
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smehan4&show_icons=true&theme=dracula)
